@@ -1,2 +1,2 @@
-# NordeaBankTask
+# FizzBuzz
 task
